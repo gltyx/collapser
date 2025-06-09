@@ -56,7 +56,7 @@
     z-index: 20;
 }
 #infinityDisplay::before {
-    content: "You have ";
+    content: "你有 ";
 }
 #infinityDisplay::after {
     content: " \221e";
@@ -156,7 +156,7 @@
 }
 #mCollapserUpgradeCollapseCircle::after {
     font-size: calc(var(--s) / 8);
-    content: "Collapse!";
+    content: "坍缩!";
 }
 
 #mCollapserPercentCircles {

@@ -84,11 +84,11 @@
 }
 .upgradeEffects > div:nth-child(1)::before {
     transform: translate(1vw, -3.2vh);
-    content: "now";
+    content: "现";
 }
 .upgradeEffects > div:nth-child(2)::before {
     transform: translate(-1vw, 2vh);
-    content: "after";
+    content: "后";
 }
 
 .upgradBtnWarp > .upgradeBtn {
